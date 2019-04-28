@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28621.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pyxis", "Pyxis\Pyxis.csproj", "{882C0234-0607-423B-A525-6B2461C0FCB8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pyxis.Test", "Pyxis.Test\Pyxis.Test.csproj", "{2A99AF51-CB8B-4F1E-99B6-70B5ABDD9F4E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pyxis.Console", "Pyxis.Console\Pyxis.Console.csproj", "{9DC1CED3-57BB-427D-8F63-66204CCBF77A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{882C0234-0607-423B-A525-6B2461C0FCB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882C0234-0607-423B-A525-6B2461C0FCB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882C0234-0607-423B-A525-6B2461C0FCB8}.Debug|x64.ActiveCfg = Debug|x64
+		{882C0234-0607-423B-A525-6B2461C0FCB8}.Debug|x64.Build.0 = Debug|x64
+		{882C0234-0607-423B-A525-6B2461C0FCB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882C0234-0607-423B-A525-6B2461C0FCB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{882C0234-0607-423B-A525-6B2461C0FCB8}.Release|x64.ActiveCfg = Release|x64
+		{882C0234-0607-423B-A525-6B2461C0FCB8}.Release|x64.Build.0 = Release|x64
+		{2A99AF51-CB8B-4F1E-99B6-70B5ABDD9F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A99AF51-CB8B-4F1E-99B6-70B5ABDD9F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A99AF51-CB8B-4F1E-99B6-70B5ABDD9F4E}.Debug|x64.ActiveCfg = Debug|x64
+		{2A99AF51-CB8B-4F1E-99B6-70B5ABDD9F4E}.Debug|x64.Build.0 = Debug|x64
+		{2A99AF51-CB8B-4F1E-99B6-70B5ABDD9F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A99AF51-CB8B-4F1E-99B6-70B5ABDD9F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A99AF51-CB8B-4F1E-99B6-70B5ABDD9F4E}.Release|x64.ActiveCfg = Release|x64
+		{2A99AF51-CB8B-4F1E-99B6-70B5ABDD9F4E}.Release|x64.Build.0 = Release|x64
+		{9DC1CED3-57BB-427D-8F63-66204CCBF77A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC1CED3-57BB-427D-8F63-66204CCBF77A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC1CED3-57BB-427D-8F63-66204CCBF77A}.Debug|x64.ActiveCfg = Debug|x64
+		{9DC1CED3-57BB-427D-8F63-66204CCBF77A}.Debug|x64.Build.0 = Debug|x64
+		{9DC1CED3-57BB-427D-8F63-66204CCBF77A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC1CED3-57BB-427D-8F63-66204CCBF77A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DC1CED3-57BB-427D-8F63-66204CCBF77A}.Release|x64.ActiveCfg = Release|x64
+		{9DC1CED3-57BB-427D-8F63-66204CCBF77A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39AC2D18-81AB-47BB-BD44-A5E3BAFDF04C}
+	EndGlobalSection
+EndGlobal
